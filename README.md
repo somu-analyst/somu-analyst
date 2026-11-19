@@ -10,7 +10,10 @@ My trading terminal scores its own predictions every day and trusts the ones tha
 Everything here runs on its own, every morning, in the cloud. LLMs · RAG · MCP · agents.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srinivasaraosomu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasaraosomu/)
-![Open to AI engineering roles](https://img.shields.io/badge/Open_to-AI_engineering_roles-0CAA41?style=for-the-badge)
+![Open to: AI Engineer · AI Developer · AI Product Manager](https://img.shields.io/badge/Open_to-AI_Engineer_·_AI_Developer_·_AI_Product_Manager-0CAA41?style=for-the-badge)
+
+**Builder and product owner in one:** I find the real problem, design the product, write the code, ship it to the cloud
+and keep improving it from what users do. Every project below went from idea to a daily running product.
 
 </div>
 
