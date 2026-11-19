@@ -19,7 +19,7 @@ Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for s
 
 [![Watch the 4-minute product tour](https://raw.githubusercontent.com/somu-analyst/Job-Search-Copilot/main/assets/demo_poster.jpg)](https://somu-analyst.github.io/Job-Search-Copilot/#tour)
 
-▶ [4-minute product tour](https://somu-analyst.github.io/Job-Search-Copilot/#tour) · 🌐 [Website](https://somu-analyst.github.io/Job-Search-Copilot/) · 📂 [Showcase repo](https://github.com/somu-analyst/Job-Search-Copilot)
+▶ [2-minute pitch](https://github.com/somu-analyst/Job-Search-Copilot/blob/main/assets/pitch.mp4) · ▶ [4-minute product tour](https://somu-analyst.github.io/Job-Search-Copilot/#tour) · 🌐 [Website](https://somu-analyst.github.io/Job-Search-Copilot/) · 📂 [Showcase repo](https://github.com/somu-analyst/Job-Search-Copilot)
 
 - **Finds jobs from 40+ sources:** employer career systems (Greenhouse, Lever, Ashby, Workday), job-search APIs, job boards, staffing vendors, Google Groups and Gmail job alerts, scored against each person's resume.
 - **Tailors truthfully:** RAG matches every requirement to real experience, and a grounding check blocks any claim the resume can't back up.
@@ -37,7 +37,7 @@ Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for s
 
 [![WallStreet AI Ops teaser](https://raw.githubusercontent.com/somu-analyst/WallStreet_Agentic_TradeOps/main/assets/media/next/teaser.gif)](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/)
 
-🌐 [Website](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/) · 📂 [Showcase repo](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps)
+▶ [2-minute video tour](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps/blob/main/assets/media/dashboard-full-tour.mp4) · 🌐 [Website](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/) · 📂 [Showcase repo](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps)
 
 - Open-interest flow, dealer gamma positioning and a 24-model signal ensemble, with Black–Scholes and Monte Carlo pricing.
 - A forward-tested accuracy layer weights each model by its recent hit rate; walk-forward checks catch signals that only fit noise.
