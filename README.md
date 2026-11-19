@@ -62,9 +62,14 @@ https://github.com/user-attachments/assets/d51bf120-8abd-429e-8108-1517e59483e5
 
 ## 🗣️ Avatar AI
 
-**A private voice assistant with a lip-synced 3D avatar** that runs on a local LLM by default: interrupt it any time, ask for live data, talk in English, Hindi or Telugu.
+**The goal: talking to AI should feel like talking to a person, without giving away your privacy.**
+You speak, it answers out loud through a lip-synced 3D avatar, and by default nothing leaves your computer.
 
-[![Avatar AI](https://raw.githubusercontent.com/somu-analyst/Avatar_AI_Agent/main/docs/images/avatars.png)](https://github.com/somu-analyst/Avatar_AI_Agent)
+[![Avatar AI: you talk, it thinks, it answers](assets/avatar_ai_how.png)](https://github.com/somu-analyst/Avatar_AI_Agent)
+
+- **Natural conversation:** no buttons; interrupt it mid-sentence and it stops and listens.
+- **Live answers:** function calling fetches weather, stock prices, scores and more mid-conversation.
+- **Your language:** English, Hindi or Telugu, even Telugu typed in English letters.
 
 `Python` `FastAPI` `WebSockets` `Ollama` `faster-whisper` `function calling` `three.js (TalkingHead)`
 
