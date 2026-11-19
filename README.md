@@ -67,6 +67,10 @@ Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for s
 
 ---
 
+## 🤗 Open source
+
+- **Hugging Face LLM Course in Telugu:** translated Chapter 3 (fine-tuning a pretrained model) so Telugu speakers can learn LLMs in their own language. [Translation PR #1142](https://github.com/huggingface/course/pull/1142) · [translation guide PR #1152](https://github.com/huggingface/course/pull/1152) (in review)
+
 ## 🔨 Currently building
 
 - **Talent Outreach** for consulting firms: a client requirement in, the right people found and contacted by email, SMS and voicemail.
