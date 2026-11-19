@@ -26,6 +26,10 @@ Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for s
 
 [![▶ Watch the 2-minute pitch](assets/jsc_pitch_play.jpg)](https://somu-analyst.github.io/#work)
 
+
+https://github.com/user-attachments/assets/a98af491-7402-4172-9613-d2a139597a28
+
+
 <sub>▶ Click to play the 2-minute pitch (full screen available). The feature tour and full product tour are one click away on the same player.</sub>
 
 🌐 [Website](https://somu-analyst.github.io/Job-Search-Copilot/) · 📂 [Showcase repo](https://github.com/somu-analyst/Job-Search-Copilot)
@@ -47,6 +51,10 @@ Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for s
 [![WallStreet AI Ops teaser](https://raw.githubusercontent.com/somu-analyst/WallStreet_Agentic_TradeOps/main/assets/media/next/teaser.gif)](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/)
 
 ▶ [Play the 2-minute video tour](https://somu-analyst.github.io/#wallstreet) · 🌐 [Website](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/) · 📂 [Showcase repo](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps)
+
+
+https://github.com/user-attachments/assets/d51bf120-8abd-429e-8108-1517e59483e5
+
 
 - Open-interest flow, dealer gamma positioning and a 24-model signal ensemble, with Black–Scholes and Monte Carlo pricing.
 - A forward-tested accuracy layer weights each model by its recent hit rate; walk-forward checks catch signals that only fit noise.
