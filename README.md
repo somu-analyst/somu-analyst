@@ -24,10 +24,9 @@ and keep improving it from what users do. Every project below went from idea to 
 **Find the right jobs, tailor an honest resume for each one, prepare for the interview, and track it all from your inbox.**
 Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for staffing firms managing a whole bench.
 
-| ▶ 2-minute pitch | ▶ 2-minute feature tour | ▶ 4-minute product tour |
-|:---:|:---:|:---:|
-| [![2-minute pitch](assets/jsc_pitch_play.jpg)](https://github.com/somu-analyst/Job-Search-Copilot/blob/main/assets/pitch.mp4) | [![2-minute feature tour](assets/jsc_features_play.jpg)](https://github.com/somu-analyst/Job-Search-Copilot/blob/main/assets/feature_tour.mp4) | [![4-minute product tour](assets/jsc_tour_play.jpg)](https://github.com/somu-analyst/Job-Search-Copilot/blob/main/assets/demo.mp4) |
-| One job seeker's story | Every feature, with voice-over | The full walkthrough |
+[![▶ Watch the 2-minute pitch](assets/jsc_pitch_play.jpg)](https://somu-analyst.github.io/#work)
+
+<sub>▶ Click to play the 2-minute pitch (full screen available). The feature tour and full product tour are one click away on the same player.</sub>
 
 🌐 [Website](https://somu-analyst.github.io/Job-Search-Copilot/) · 📂 [Showcase repo](https://github.com/somu-analyst/Job-Search-Copilot)
 
@@ -47,7 +46,7 @@ Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for s
 
 [![WallStreet AI Ops teaser](https://raw.githubusercontent.com/somu-analyst/WallStreet_Agentic_TradeOps/main/assets/media/next/teaser.gif)](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/)
 
-▶ [2-minute video tour](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps/blob/main/assets/media/dashboard-full-tour.mp4) · 🌐 [Website](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/) · 📂 [Showcase repo](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps)
+▶ [Play the 2-minute video tour](https://somu-analyst.github.io/#wallstreet) · 🌐 [Website](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/) · 📂 [Showcase repo](https://github.com/somu-analyst/WallStreet_Agentic_TradeOps)
 
 - Open-interest flow, dealer gamma positioning and a 24-model signal ensemble, with Black–Scholes and Monte Carlo pricing.
 - A forward-tested accuracy layer weights each model by its recent hit rate; walk-forward checks catch signals that only fit noise.
