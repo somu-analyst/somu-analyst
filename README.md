@@ -24,13 +24,9 @@ and keep improving it from what users do. Every project below went from idea to 
 **Find the right jobs, tailor an honest resume for each one, prepare for the interview, and track it all from your inbox.**
 Runs daily on Oracle Cloud, with a Telegram bot. Built for job seekers and for staffing firms managing a whole bench.
 
-[![▶ Watch the 2-minute pitch](assets/jsc_pitch_play.jpg)](https://somu-analyst.github.io/#work)
-
-
 https://github.com/user-attachments/assets/a98af491-7402-4172-9613-d2a139597a28
 
-
-<sub>▶ Click to play the 2-minute pitch (full screen available). The feature tour and full product tour are one click away on the same player.</sub>
+<sub>▶ The 2-minute pitch. More: [feature tour and full product tour](https://somu-analyst.github.io/#work).</sub>
 
 🌐 [Website](https://somu-analyst.github.io/Job-Search-Copilot/) · 📂 [Showcase repo](https://github.com/somu-analyst/Job-Search-Copilot)
 
