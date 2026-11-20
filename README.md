@@ -43,7 +43,9 @@ https://github.com/user-attachments/assets/a98af491-7402-4172-9613-d2a139597a28
 
 ## 📊 WallStreet Agentic TradeOps
 
-**An options-intelligence terminal that turns NYSE/CBOE options-chain data into explained trade signals**, delivered through a Telegram bot and a Streamlit web terminal.
+**Your AI investment advisor and options trading co-pilot.** For day trades and short-term options: take the trade with data and confidence, track it, and exit with a clear plan. It turns NYSE/CBOE options-chain data into explained signals, delivered through a Telegram bot you tap like an app and a Streamlit web terminal.
+
+- **Options toolkit:** OI build-up and short-covering detection, gamma walls (GEX), Hi-Prob (≥80%) trades, spreads, wheel/CSP, a trade risk calculator and a next-day exit planner.
 
 [![WallStreet AI Ops teaser](https://raw.githubusercontent.com/somu-analyst/WallStreet_Agentic_TradeOps/main/assets/media/next/teaser.gif)](https://somu-analyst.github.io/WallStreet_Agentic_TradeOps/)
 
